@@ -17,6 +17,7 @@ Jame Olsen - Artist
 
 <p><img src="https://github.com/Masterpaul562/Albatross/blob/main/Docs/ALBATROSS.png?raw=true" alt="Example"></p>
 <p><img src="https://github.com/Masterpaul562/Albatross/blob/main/Docs/BoatGameUI.png?raw=true" alt="Example"></p>
+<p><img src="https://github.com/Masterpaul562/Albatross/blob/main/Docs/Restart%3F.png?raw=true" alt="Example"></p>
 </details>
 
 
