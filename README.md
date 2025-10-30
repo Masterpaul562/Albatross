@@ -24,7 +24,8 @@ Jame Olsen - Artist
 
 <details>
 <summary>Downloads</summary>
+<p><a href="">Windows Download</a></p>
 
-<p><a href="">MacOs Download</a></p>
+Download and unzip. Extract with executable and run.
   
 </details>
