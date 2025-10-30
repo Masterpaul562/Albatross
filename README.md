@@ -27,6 +27,14 @@ Jame Olsen - Artist
 <p><img src="https://github.com/Masterpaul562/Albatross/blob/main/Docs/BoatUML.drawio.png?raw=true" alt="Example"></p>
 </details>
 
+<details>
+<summary>TimeLine</summary>
+
+<p><img src="https://github.com/Masterpaul562/Albatross/blob/main/Docs/BoatGameTrello.png?raw=true" alt="Example"></p>
+<p><img src="https://github.com/Masterpaul562/Albatross/blob/main/Docs/ToDoTrello.png?raw=true" alt="Example"></p>
+
+</details>
+
 
 
 <details>
