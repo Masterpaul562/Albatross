@@ -1,4 +1,5 @@
 # Albatross
+#### A simple game about being on a boat. You in an abandoned world are all alone in a boat. To survive you have to fish to appease a sea monster who threatens to destroy your boat. 
 
 <details>
 <summary>Team Members</summary>
