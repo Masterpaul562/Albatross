@@ -15,7 +15,8 @@ Jame Olsen - Artist
 <details>
 <summary>Mock Ups</summary>
 
-<p><img src="https://github.com/Masterpaul562/Albatross/blob/main/Docs/BoatUML.drawio.png?raw=true" alt="Example"></p>
+<p><img src="https://github.com/Masterpaul562/Albatross/blob/main/Docs/ALBATROSS.png?raw=true" alt="Example"></p>
+<p><img src="https://github.com/Masterpaul562/Albatross/blob/main/Docs/BoatGameUI.png?raw=true" alt="Example"></p>
 </details>
 
 
