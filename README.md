@@ -9,6 +9,8 @@ Eli Wright - Writing
 Paul Tokhtuev - Coding
 
 Jame Olsen - Artist
+
+Jonathan Gallego - Concept Art
   
 </details>
 
